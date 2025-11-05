@@ -8,6 +8,8 @@ A fun, interactive experience where hovering over the moon reveals the _real_ mo
 
 ---
 
+[Live : https://arundada9000.github.io/Moon/](https://arundada9000.github.io/Moon/)
+
 ## 🎵 Touch the Screen to Start Music
 
 When you touch or click anywhere on the screen, music will start playing as you hover over the moon.  
@@ -78,3 +80,8 @@ Feel free to reach out through any of the platforms below:
 
 _Made with ❤️ and a bit of moonlight
 I couldn’t send it to her, I hope you can 😁😁_
+
+Made By **Arun Neupane**
+**For educational purpose** on **code_with_ease** youtube channel.
+
+I hereby declare anybody can use this code to their liking, but i donot give any permission over images , music or names used in this code so keep that in mind.

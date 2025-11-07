@@ -100,6 +100,7 @@ Made By **Arun Neupane**
 I hereby declare anybody can use this code to their liking, but i donot give any permission over images , music or names used in this code so keep that in mind.
 
 _Couldn't edit it ?_
-**Tutorial Link**:
+**Tutorial Link**: https://youtu.be/JWqwfLMNBas
+My youtube channel : https://youtube.com/@arundada9000
 
 <img src="./preview/logo-circle.png" height="200">

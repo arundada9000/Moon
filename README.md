@@ -1,4 +1,4 @@
-# 🌕 Hover on The Moon to See the Real Moooooon!
+﻿#  Hover on The Moon to See the Real Moooooon!
 
 [Live : https://arundada9000.github.io/Moon/](https://arundada9000.github.io/Moon/)
 
@@ -18,20 +18,20 @@
 
 ---
 
-A fun, interactive experience where hovering over the moon reveals the _real_ moon 🌝 — complete with background music and custom hover messages!
+A fun, interactive experience where hovering over the moon reveals the _real_ moon  - complete with background music and custom hover messages!
 
 ---
 
-## 🎵 Touch the Screen to Start Music
+##  Touch the Screen to Start Music
 
 When you touch or click anywhere on the screen, music will start playing as you hover over the moon.  
 Enjoy the relaxing vibe and watch the magic happen ✨
 
 ---
 
-## 🛠️ How to Customize It
+##  How to Customize It
 
-### 🖼️ Change the Image
+###  Change the Image
 
 <img src="./assets/image1.jpg" height="200">
 
@@ -44,7 +44,7 @@ Enjoy the relaxing vibe and watch the magic happen ✨
 
 ---
 
-### 🎧 Change the Music
+###  Change the Music
 
 ![Music Update](./preview/music-preview.png)
 
@@ -52,11 +52,11 @@ Enjoy the relaxing vibe and watch the magic happen ✨
 2. Delete the existing **`music.mp3`** file.
 3. Rename your new file to **`music.mp3`**.
 
-🎶 That’s it! Your chosen music will now play when interacting with the moon.
+ That’s it! Your chosen music will now play when interacting with the moon.
 
 ---
 
-### 💬 Update Hover Text
+###  Update Hover Text
 
 ![Edit Text](./preview/hover-text.png)
 
@@ -74,13 +74,13 @@ You can:
 
 - Or remove lines if you want fewer hover messages.
 
-### 🪶 Example:
+###  Example:
 
 ```js
-const phrases = ["To the moon 🚀", "Shine bright 🌕", "Keep dreaming 💫"];
+const phrases = ["To the moon ", "Shine bright ", "Keep dreaming "];
 ```
 
-### 🌐 Connect with Me
+###  Connect with Me
 
 I'm always open to collaborating on interesting projects or just chatting about tech!
 Feel free to reach out through any of the platforms below:
@@ -90,9 +90,9 @@ Feel free to reach out through any of the platforms below:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arundada9000)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/arundada9000) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arundada9000)
 
-_Made with ❤️ and a bit of moonlight🌕_
+_Made with ❤ and a bit of moonlight_
 
-_I couldn’t send it to her, I hope you can 😁😁_
+_I couldn’t send it to her, I hope you can _
 
 Made By **Arun Neupane**
 **For educational purpose** on **code_with_ease** youtube channel.
@@ -104,3 +104,8 @@ _Couldn't edit it ?_
 My youtube channel : https://youtube.com/@arundada9000
 
 <img src="./preview/logo-circle.png" height="200">
+---
+
+## License
+
+This project is for educational and personal learning purposes only. Commercial use, public deployment, or any revenue-generating use requires explicit written permission from the author. See [LICENSE](LICENSE) for details.
